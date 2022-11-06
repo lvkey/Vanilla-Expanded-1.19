@@ -5,7 +5,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 public class VanillaExpanded implements ModInitializer {
-	//Test Comment
+
 	public static final String MOD_ID = "vanillaexpanded";
 	public static final Logger LOGGER = LoggerFactory.getLogger(MOD_ID);
 
